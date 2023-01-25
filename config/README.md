@@ -1,0 +1,2 @@
+## `config`
+Any relevant configuration files for running individual experiments go here. Not all software has configuration files, but when relevant please include them here as well as instructions on how to use.

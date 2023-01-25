@@ -1,0 +1,2 @@
+## `source`
+Your software goes here, or instructions on how to compile and run your software. Ideally your custom made functions, processing routines, and analysis methods should be given here either as a formal software module or, at a minimum, a single file with enumerated functions that can be directly called.
